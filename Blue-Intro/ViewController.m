@@ -30,10 +30,15 @@
                           @"Compre créditos através do Celular, Pontos de Vendas ou com nossos Agentes de Estacionamento"];
     
     //Cores das telas
-    arrayColors = @[[UIColor colorWithRed:45.0/255.0 green:100.0/255.0 blue:165.0/255.0 alpha:1],
-                    [UIColor colorWithRed:40.0/255.0 green:80.0/255.0 blue:120.0/255.0 alpha:1],
-                    [UIColor colorWithRed:35.0/255.0 green:55.0/255.0 blue:85.0/255.0 alpha:1],
-                    [UIColor colorWithRed:30.0/255.0 green:45.0/255.0 blue:60.0/255.0 alpha:1]];
+//    arrayColors = @[[UIColor colorWithRed:45.0/255.0 green:100.0/255.0 blue:165.0/255.0 alpha:1],
+//                    [UIColor colorWithRed:40.0/255.0 green:80.0/255.0 blue:120.0/255.0 alpha:1],
+//                    [UIColor colorWithRed:35.0/255.0 green:55.0/255.0 blue:85.0/255.0 alpha:1],
+//                    [UIColor colorWithRed:30.0/255.0 green:45.0/255.0 blue:60.0/255.0 alpha:1]];
+
+    arrayColors = @[[UIColor colorWithRed:208.0/255.0 green:32.0/255.0 blue:144.0/255.0 alpha:1],
+                    [UIColor colorWithRed:255.0/255.0 green:165.0/255.0 blue:0 alpha:1],
+                    [UIColor colorWithRed:67.0/255.0 green:205.0/255.0 blue:128.0/255.0 alpha:1],
+                    [UIColor colorWithRed:45.0/255.0 green:100.0/255.0 blue:165.0/255.0 alpha:1]];
     
     //Instanciar Page View Controller tipo scroll horizontal
     self.pageViewController = [[UIPageViewController alloc]
