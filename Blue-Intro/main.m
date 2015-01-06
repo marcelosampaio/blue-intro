@@ -1,8 +1,8 @@
 //
 //  main.m
-//  Blue-Intro
+//  Teste-PopAnim1
 //
-//  Created by Allan Alves on 12/30/14.
+//  Created by Allan Alves on 12/18/14.
 //  Copyright (c) 2014 Allan Alves. All rights reserved.
 //
 
